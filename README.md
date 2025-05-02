@@ -10,7 +10,7 @@ This project demonstrates a Lambda function that uses Amazon Bedrock for embeddi
 ## Setup
 
 1. **Clone the repository**:
-git clone https://github.com/yourusername/bedrock-lambda-project.git  cd bedrock-lambda-project
+git clone https://github.com/cravirajan/bedrock-lambda-project.git  cd bedrock-lambda-project
 
 
 2. **Create a virtual environment**:
